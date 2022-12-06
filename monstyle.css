@@ -1,0 +1,62 @@
+html {
+    background-color: brown;
+}
+
+h1 {
+    text-align: center;
+    margin-left: 600px;
+    font-style: bold;
+    font-size: 46;
+    text-decoration: underline;
+    text-shadow: 5px;
+    text-decoration-color: darkred;
+}
+
+h2 {
+    text-align: left;
+    margin-left: 0px;
+    font-style: bold;
+    font-size: 32;
+    float: left;
+}
+
+title {
+    text-underline-position: below;
+    text-shadow: 10px;
+}
+
+body {
+
+    width: 811px;
+    height: 317px;
+    margin: 0;
+}
+
+div {
+    background-color: brown;
+}
+
+h2 {
+    float: left;
+    background-color: brown;
+    text-size-adjust: auto;
+}
+
+#test {
+    float: right;
+    width: 455px;
+    height: 265px;
+}
+
+input {
+    background-color: chartreuse;
+    size: 50px;
+    height: 30px;
+    width: 200px;
+    padding-top: 3px ; 
+    text-decoration-color: coral;
+    display: block;
+    border: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
