@@ -31,19 +31,23 @@ body {
     height: 317px;
     padding-bottom: 10px;
     background-image: url("https://github.com/DevTenoste/MySiteWeb/blob/main/black-contrast-tech-arrows-background-260nw-1194220039.png?raw=true");
-   background-image: url("black-contrast-tech-arrows-background-260nw-1194220039.png"); 
+    background-image: url("black-contrast-tech-arrows-background-260nw-1194220039.png");
     background-size: 1500px;
     background-attachment: fixed;
 }
 
 div {
-   clear: initial;
+    clear: initial;
 }
 
 h2 {
-    float: left;
+    float: none;
     text-size-adjust: auto;
+    text-decoration-color: aliceblue;
+    color: aliceblue;
 }
+
+
 
 #test {
     float: right;
@@ -56,20 +60,20 @@ input {
     size: 50px;
     height: 30px;
     width: 200px;
-    padding-top: 3px ; 
+    padding-top: 3px;
     text-decoration-color: coral;
     display: block;
     border: 10px;
     border-radius: 50px;
     cursor: pointer;
-    
+
 }
 
 figure {
     margin: 0;
 }
 
-#discorduser{
+#discorduser {
     text-align: center;
     float: right;
     font-family: 'Courier New', Courier, monospace;
@@ -80,4 +84,10 @@ figure {
 
 #sourcerecentes {
     padding-top: 10px;
+}
+
+#Podcast {
+    text-align: left;
+    float: none;
+    font-style: italic;
 }
