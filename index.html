@@ -4,8 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mon site internet</title>
+    <meta name="viewport" content="width=device-width, initial-scale=0.5">
+    <title>Accueil</title>
     <link rel="stylesheet" media="screen" type="text/css" href="monstyle.css" />
     <meta name="Site internet">
     <meta name="Podcast et News">
@@ -20,12 +20,16 @@
 
 <body>
     <!-- JavaScript Bundle with Popper -->
-    <h1>
+    <h1 style="text-align: center;">
         Accueil :
     </h1>
-    <input type=button onclick=window.location.href='News.html' ; value=" Aller a la page de News" />
-    <h2 style="float: left ;">
+    <h2 id="page2" style="float: left ;">
         News :
     </h2>
+    <div>
+        <input type=button style="float: left;" onclick=window.location.href='News.html' ;
+            value=" Aller a la page de News" />
+    </div>
 </body>
+
 </html>
