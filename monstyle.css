@@ -31,6 +31,7 @@ body {
     height: 317px;
     padding-bottom: 10px;
     background-image: url("https://github.com/DevTenoste/MySiteWeb/blob/main/black-contrast-tech-arrows-background-260nw-1194220039.png?raw=true");
+   background-image: url("black-contrast-tech-arrows-background-260nw-1194220039.png"); 
     background-size: 1500px;
     background-attachment: fixed;
 }
