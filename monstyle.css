@@ -1,15 +1,16 @@
 html {
-    background-color: brown;
+    empty-cells: show;
 }
 
 h1 {
     text-align: center;
     margin-left: 600px;
+    color: darkturquoise;
     font-style: bold;
     font-size: 46;
     text-decoration: underline;
     text-shadow: 5px;
-    text-decoration-color: darkred;
+    text-decoration-color: darkturquoise;
 }
 
 h2 {
@@ -26,19 +27,20 @@ title {
 }
 
 body {
-
     width: 811px;
     height: 317px;
-    margin: 0;
+    padding-bottom: 10px;
+    background-image: url("https://github.com/DevTenoste/MySiteWeb/blob/main/black-contrast-tech-arrows-background-260nw-1194220039.png?raw=true");
+    background-size: 1500px;
+    background-attachment: fixed;
 }
 
 div {
-    background-color: brown;
+   clear: initial;
 }
 
 h2 {
     float: left;
-    background-color: brown;
     text-size-adjust: auto;
 }
 
@@ -57,6 +59,24 @@ input {
     text-decoration-color: coral;
     display: block;
     border: 10px;
-    border-radius: 10px;
+    border-radius: 50px;
     cursor: pointer;
+    
+}
+
+figure {
+    margin: 0;
+}
+
+#discorduser{
+    text-align: center;
+    float: right;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    align-self: auto;
+    visibility: hidden;
+}
+
+#sourcerecentes {
+    padding-top: 10px;
 }
