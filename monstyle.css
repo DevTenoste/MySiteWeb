@@ -4,7 +4,7 @@ html {
 
 h1 {
     text-align: center;
-    margin-left: 600px;
+    margin-left: 75px;
     color: darkturquoise;
     font-style: bold;
     font-size: 46;
@@ -27,8 +27,9 @@ title {
 }
 
 body {
-    width: 811px;
-    height: 317px;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
     padding-bottom: 10px;
     background-image: url("https://github.com/DevTenoste/MySiteWeb/blob/main/black-contrast-tech-arrows-background-260nw-1194220039.png?raw=true");
     background-image: url("black-contrast-tech-arrows-background-260nw-1194220039.png");
