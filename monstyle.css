@@ -1,5 +1,5 @@
 html {
-    empty-cells: show;
+    
 }
 
 h1 {
@@ -32,8 +32,11 @@ body {
     padding-bottom: 10px;
     background-image: url("https://github.com/DevTenoste/MySiteWeb/blob/main/black-contrast-tech-arrows-background-260nw-1194220039.png?raw=true");
     background-image: url("black-contrast-tech-arrows-background-260nw-1194220039.png");
-    background-size: 1500px;
+    background-position: center center;
+    background-repeat: no-repeat;
     background-attachment: fixed;
+    background-color: #464646;
+    background-size: cover;
 }
 
 div {
@@ -43,7 +46,6 @@ div {
 h2 {
     float: none;
     text-size-adjust: auto;
-    text-decoration-color: aliceblue;
     color: aliceblue;
 }
 
