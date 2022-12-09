@@ -32,7 +32,7 @@ body {
     height: auto;
     padding-bottom: 10px;
     background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20190214/pngtree-red-spot-delicate-style-business-style-abstract-dark-background-image_2599.jpg");
-    background-image: url("pngtree-red-spot-delicate-style-business-style-abstract-dark-background-image_2599.jpg");
+    background-image: url("pngtree-red-spot-delicate-style-business-style-abstract-dark-background-image_2599.png");
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -67,8 +67,8 @@ input {
     display: block;
     border: 10px;
     border-radius: 50px;
-    cursor: pointer;
-
+    cursor:pointer ;
+    font-family: cursive;
 }
 
 figure {
@@ -92,4 +92,8 @@ figure {
     text-align: left;
     float: none;
     font-style: italic;
+}
+
+footer {
+    padding-top: 30%;
 }
