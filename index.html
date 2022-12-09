@@ -18,18 +18,33 @@
 
 </head>
 
-<body>
+<body>  
     <!-- JavaScript Bundle with Popper -->
-    <h1 style="text-align: center;">
-        Accueil :
-    </h1>
-    <h2 id="page2" style="float: left ;">
-        News :
-    </h2>
+    <menu>
+        <h1 style="text-align: center; cursor: default;">
+            Accueil :
+        </h1>
+        <ul id="menu-deroulant">
+            <li><a href="index.html">Accueil</a>
+                <ul>
+                    <li><a href="News.html">Les News</a></li>
+                    <li><a href="Podcast.html">Les Podcasts</a></li>
+                    <li><a href="sources.html">Les Sources</a></li>
+                    <li><a href="Credits.html">Les crédits</a></li>
+                </ul>
+            </li>
+        </ul>
+    </menu>
+
     <div>
-        <input type=button style="float: left;" onclick=window.location.href='News.html' ;
-            value=" Aller a la page de News" />
-    </div>
+        <h2>
+            News
+        </h2>
+        <div>
+            <div>
+                <input type=button style="float: left;" onclick=window.location.href='News.html' ;
+                    value=" Aller a la page de News" />
+            </div>
 </body>
 
 </html>
