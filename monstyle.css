@@ -51,8 +51,6 @@ h2 {
     color: aliceblue;
 }
 
-
-
 #test {
     float: right;
     width: 455px;
@@ -94,19 +92,4 @@ figure {
     text-align: left;
     float: none;
     font-style: italic;
-}
-
-#Menudéfilant {
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: aquamarine;
-    color: white;
-    padding: 10px;
-    font-size: 42;
-    border: none;
-}
-a {
-    color: crimson;
-    font-size: 32;
-    text-decoration: double;
-    font-style: oblique;
 }
