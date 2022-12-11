@@ -1,11 +1,6 @@
 html {
     cursor: context-menu;
-    background-image: url("https://github.com/DevTenoste/MySiteWeb/blob/main/pngtree-red-spot-delicate-style-business-style-abstract-dark-background-image_2599.png?raw=true");
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-color: black;
-    background-size: cover;
+
 }
 
 h1 {
@@ -37,6 +32,12 @@ body {
     max-width: 100%;
     height: auto;
     padding-bottom: 10px;
+    background-image: url("https://github.com/DevTenoste/MySiteWeb/blob/main/pngtree-red-spot-delicate-style-business-style-abstract-dark-background-image_2599.png?raw=true");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: black;
+    background-size: cover;
 }
 
 div {
