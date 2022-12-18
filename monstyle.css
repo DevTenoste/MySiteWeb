@@ -1,0 +1,151 @@
+html {
+    cursor: context-menu;
+
+}
+
+h1 {
+    text-align: center;
+    margin-left: 45px;
+    color: darkturquoise;
+    font-style: bold;
+    font-size: 40px;
+    text-decoration: underline;
+    text-shadow: 5px;
+    text-decoration-color: darkturquoise;
+}
+
+h2 {
+    text-align: left;
+    margin-left: 0px;
+    font-style: bold;
+    font-size: 35px;
+    float: left;
+}
+
+title {
+    text-underline-position: below;
+    text-shadow: 10px;
+}
+
+body {
+    width: 95%;
+    max-width: 100%;
+    height: auto;
+    padding-bottom: 10px;
+    background-image: url("https://github.com/DevTenoste/MySiteWeb/blob/main/pngtree-red-spot-delicate-style-business-style-abstract-dark-background-image_2599.png?raw=true");
+    background-image: url("assets/lib/img/pngtree-red-spot-delicate-style-business-style-abstract-dark-background-image_2599.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: black;
+    background-size: cover;
+}
+
+div {
+    clear: initial;
+}
+
+h2 {
+    float: none;
+    font-family: Arial, Helvetica, sans-serif;
+    text-size-adjust: auto;
+    color: aliceblue;
+    font-size: 35px;
+}
+
+#test {
+    float: right;
+    width: 455px;
+    height: 265px;
+}
+
+input {
+    background-color: chartreuse;
+    size: 50px;
+    height: 30px;
+    width: 225px;
+    padding-top: 3px;
+    text-decoration-color: coral;
+    display: block;
+    border: 10px;
+    border-radius: 50px;
+    cursor:pointer ;
+    font-family: cursive;
+}
+
+figure {
+    margin: 0;
+}
+
+#discorduser {
+    text-align: center;
+    float: right;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    align-self: auto;
+    visibility: hidden;
+}
+
+#sourcerecentes {
+    padding-top: 10px;
+}
+
+#Podcast {
+    text-align: left;
+    float: none;
+    font-style: italic;
+}
+
+footer {
+    padding-top: 10%;
+}
+
+h3 {
+    color: gold;
+    text-decoration: underline;
+    font-family: sans-serif;
+    font-size: 30px ;
+}
+#telecharger {
+    margin-left: 10px;
+    width: 40px;
+    height: 40px;
+}
+#boutonsommaire {
+    padding-top: 10px ;
+    padding-bottom: 10px ;
+    margin-top: 10px ;
+    margin-bottom: 10px ;
+}
+
+head {
+    content: icon;
+}
+
+#newsjourj {
+    background-attachment:fixed ;
+    background-color: burlywood;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    outline: auto;
+}
+
+h4 {
+    color: darkviolet;
+    text-rendering: auto;
+    text-decoration: tomato;
+    text-shadow: 10px;
+    font-family: cursive;
+    text-decoration: wavy;
+    font-size: 25px;
+    
+}
+
+h5 {
+    color: dimgray;
+    font-size: 20px;
+}
+
+h6 {
+    color: dimgray;
+    font-size: 15px;
+}
